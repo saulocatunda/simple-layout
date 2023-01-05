@@ -1,6 +1,6 @@
 # Uma simples página com informações básicas, apenas para treino
 
-## Defafios:
+## Desafios:
 
 - Estruturando um projeto HTML;
 - Uso de tags HTML mais comuns;
